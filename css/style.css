@@ -4,6 +4,22 @@
 
 /*------------------------------*/
 
+#simple-table {
+    border: 1px solid black;
+}
+
+#simple-table th, td {
+    text-align: center;
+    font-weight: normal;
+}
+
+.in-red {
+    color: red;
+    border: 1px solid red;
+}
+
+/*------------------------------*/
+
 .separator {
     background-color: black ;
     height: 3px;
